@@ -1,0 +1,82 @@
+/* Styly pro úvodní stránku */
+#about {
+  background-color: #c0c0c0dc;
+  padding: 60px 0;
+}
+
+#about h2 {
+  margin-bottom: 20px;
+}
+
+#about h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+#about img {
+  max-width: 100%;
+  border-radius: 50%;
+}
+
+#about ul {
+  list-style: none;
+  padding: 0;
+}
+
+#about ul li {
+  margin-bottom: 10px;
+}
+
+/* Styly pro životopis */
+#resume {
+  padding: 60px 0;
+}
+
+#resume h2 {
+  margin-bottom: 20px;
+}
+
+/* Styly pro portfolio */
+#portfolio {
+  background-color: #c0c0c0dc;
+  padding: 60px 0;
+}
+
+#portfolio h2 {
+  margin-bottom: 20px;
+}
+
+/* Styly pro blog */
+#blog {
+  padding: 60px 0;
+}
+
+#blog h2 {
+  margin-bottom: 20px;
+}
+
+/* Styly pro kontaktní stránku */
+#contact {
+  background-color: #c0c0c0dc;
+  padding: 60px 0;
+}
+
+#contact h2 {
+  margin-bottom: 20px;
+}
+
+form label {
+  font-weight: bold;
+}
+
+form .form-control {
+  margin-bottom: 10px;
+}
+
+form textarea.form-control {
+  resize: vertical;
+}
+
+form button.btn {
+  margin-top: 10px;
+}
